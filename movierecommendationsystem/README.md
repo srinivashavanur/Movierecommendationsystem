@@ -1,0 +1,2 @@
+Problem statement: 
+The requirement is to design a prototype that will take misspelled movie name as an input and the system will respond with the most likely correct entries (say three of them). The user chooses one of them (say the second one). This selection will be used to identify the applicable genres. Using a couple of the actors from the selected movie, and the selected movie's genre, the system will return with a list of recommended movies (say a maximum of 10), sorted so that the one most like the original movie is first.
