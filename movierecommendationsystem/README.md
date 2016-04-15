@@ -1,7 +1,7 @@
 Problem statement: 
 The requirement is to design a prototype that will take a misspelled movie name as an input and the system will respond with the most likely correct entries (say three of them). The user chooses one of them (say the second one). This selection will be used to identify the applicable genres. Using a couple of the actors from the selected movie, and the selected movie's genre, the system will return with a list of recommended movies (say a maximum of 10), sorted so that the one most like the original movie is first.
 
-Here levenshtein's distance method is used to identify the spell check of movie to identify the actual movie name and give the list of recommended movies.
+Here levenshtein's distance method is used to identify the spell check of the movie to know the actual movie name and gives away the  list of recommended movies.
 
 Following are the directions to create, populate, query, delete the database.
 
